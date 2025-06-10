@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Rohit Behera
 
 <!--
 **rohit-behera123/rohit-behera123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### 🐍 Aspiring Python Developer
+
+- 🔭 I’m learning to become a **Python developer**.
+- 🌱 Right now, I’m learning:
+  - Python basics (print, input, variables)
+  - If-else, loops, and functions
+  - small ai web tools and AI projects
+  - Simple programs and small projects
+- 💡 I want to build apps, automation tools, and useful scripts with Python.
+- 💬 Ask me about Python basics — I'm always happy to share what I know.
+- 📫 How to reach me:  
+  - GitHub: [@rohit-behera123](https://github.com/rohit-behera123)
+- 😄 Fun fact: I love using Python to create smart project!
+
+---
+
+Thanks for checking out my profile! 🚀  
+I'm on a journey to become a Python developer — learning one step at a time.
+
