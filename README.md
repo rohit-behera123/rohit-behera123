@@ -12,6 +12,7 @@
   - If-else, loops, and functions
   - small ai web tools and AI projects
   - Simple programs and small projects
+  - and also web development(HTML,CSS,JS)
 - 💡 I want to build apps, automation tools, and useful scripts with Python.
 - 💬 Ask me about Python basics — I'm always happy to share what I know.
 - 📫 How to reach me:  
